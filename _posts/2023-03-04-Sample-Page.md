@@ -3,7 +3,7 @@ title: Machine Learning / IA
 published: true
 ---
 
-`Nuestro Modelo de Machine Learnig realizado con un codigo proligo, nos permite colocar la Ciencia de Datos como una herramienta bastante seria y oportuna en el pronostico hipico, nuestro modelo supervizado tiene una exactitud del 79% por lo cual es sin duda impresionante.`
+`Nuestro Modelo de Machine Learnig realizado con un codigo prolijo, nos permite colocar la Ciencia de Datos como una herramienta bastante seria y oportuna en el pronostico hipico, nuestro modelo supervizado tiene una exactitud del 79% por lo cual es sin duda impresionante.`
 
 ## [](#header-1)El Cientifico Hipico
 
