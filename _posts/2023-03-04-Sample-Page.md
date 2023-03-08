@@ -1,19 +1,15 @@
 ---
-title: Another Sample Page
+title: Machine Learning / IA 
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+`Nuestro Modelo de Machine Learnig realizado con un codigo proligo, nos permite colocar la Ciencia de Datos como una herramienta bastante seria y oportuna en el pronostico hipico, nuestro modelo supervizado tiene una exactitud del 79% por lo cual es sin duda impresionante.`
 
-[Link to another page](another-page).
+## [](#header-1)El Cientifico Hipico
 
-There should be whitespace between paragraphs.
+Es una iniciativa con un método innovador utilizando IA (Intilegencia Artificial) concretamente un modelo Supervisado de Machine Learning donde considera factores en estudio para realizar el pronóstico hípico, tales como el retrospecto general, la cátedra, los factores extra-pronósticos, la pila, el cambiazo, el implemento zancadilla, el aparato de salidas, el factor sexual, el cupo de ejemplares, el biorritmo, el pedigree, la altura, la seña de jinetes y otros más, transformando muchos de estos factores cualitativos en factores cuantitativos realizando un innovador algoritmo matematico que será siempre la diferencia entre ser acertado o no, si quieres ser uno de nuestros ganadores en la competencia hípica solo suscribite con nosotros y paga por una verdadera información.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![](https://tse4.mm.bing.net/th/id/OIP.Yv7Q2T07K-qszkuou5L5bAHaFj?pid=ImgDet&rs=1)
 
 ## [](#header-2)Header 2
 
